@@ -1,4 +1,5 @@
 <div align="center">
+
 [![App Banner](https://raw.githubusercontent.com/DevDJpl/squirrel-docs/main/images/banner.png)](https://docs.devdj.pl)
 
 # Squirrel Docs
